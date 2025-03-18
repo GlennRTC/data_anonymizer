@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# data files
+data/
+anonymized_data.csv
+anonymization_mappings.json
